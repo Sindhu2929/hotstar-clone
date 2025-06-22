@@ -1,72 +1,72 @@
 [
   {
     "id": 1,
-    "title": "Movie 1",
-    "description": "This is a great movie.",
-    "posterUrl": "https://via.placeholder.com/200x300.png?text=Movie+1",
+    "title": "The Dark Knight",
+    "description": "A gritty crime thriller featuring Batman.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/8/8a/Dark_Knight.jpg",
     "category": "Trending"
   },
   {
     "id": 2,
-    "title": "Movie 2",
-    "description": "Another fantastic movie.",
-    "posterUrl": "https://via.placeholder.com/200x300.png?text=Movie+2",
+    "title": "Inception",
+    "description": "A mind-bending thriller about dreams within dreams.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/7/7f/Inception_ver3.jpg",
     "category": "Trending"
   },
   {
     "id": 3,
-    "title": "Movie 3",
-    "description": "You were watching this.",
-    "posterUrl": "https://via.placeholder.com/200x300.png?text=Movie+3",
+    "title": "Interstellar",
+    "description": "A journey through space and time to save humanity.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg",
     "category": "Continue Watching"
   },
   {
     "id": 4,
-    "title": "Show 1",
-    "description": "An exciting action show.",
-    "posterUrl": "https://via.placeholder.com/200x300.png?text=Show+1",
+    "title": "Avengers: Endgame",
+    "description": "The epic conclusion to the Avengers saga.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/0/0d/Avengers_Endgame_poster.jpg",
     "category": "Action"
   },
   {
     "id": 5,
-    "title": "Show 2",
-    "description": "A hilarious comedy series.",
-    "posterUrl": "https://via.placeholder.com/200x300.png?text=Show+2",
+    "title": "The Big Bang Theory",
+    "description": "A comedy series about science geeks and their friends.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/The_Big_Bang_Theory_season_1.jpg",
     "category": "Comedy"
   },
   {
     "id": 6,
-    "title": "Movie 4",
-    "description": "Edge of your seat action.",
-    "posterUrl": "https://via.placeholder.com/200x300.png?text=Movie+4",
+    "title": "Mad Max: Fury Road",
+    "description": "A high-octane action film set in a post-apocalyptic world.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/6/6e/Mad_Max_Fury_Road.jpg",
     "category": "Action"
   },
   {
     "id": 7,
-    "title": "Movie 5",
-    "description": "Laugh out loud funny.",
-    "posterUrl": "https://via.placeholder.com/200x300.png?text=Movie+5",
+    "title": "Friends",
+    "description": "A classic sitcom about six friends living in New York.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/d/dd/Friends_season_one_cast.jpg",
     "category": "Comedy"
   },
   {
     "id": 8,
-    "title": "Movie 6",
-    "description": "The latest blockbuster.",
-    "posterUrl": "https://via.placeholder.com/200x300.png?text=Movie+6",
+    "title": "Joker",
+    "description": "A psychological thriller about the origin of the Joker.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/e/e1/Joker_%282019_film%29_poster.jpg",
     "category": "Trending"
   },
   {
     "id": 9,
-    "title": "Movie 7",
-    "description": "Don't miss the ending.",
-    "posterUrl": "https://via.placeholder.com/200x300.png?text=Movie+7",
+    "title": "Stranger Things",
+    "description": "A group of kids uncover supernatural mysteries in their town.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/3/38/Stranger_Things_season_3.jpg",
     "category": "Continue Watching"
   },
   {
     "id": 10,
-    "title": "Show 3",
-    "description": "A new action-packed show.",
-    "posterUrl": "https://via.placeholder.com/200x300.png?text=Show+3",
+    "title": "Game of Thrones",
+    "description": "A fantasy drama series based on the novels by George R. R. Martin.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/d/d8/Game_of_Thrones_title_card.jpg",
     "category": "Action"
   }
 ]
