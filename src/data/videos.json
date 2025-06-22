@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "Movie 1",
+    "description": "This is a great movie.",
+    "posterUrl": "https://via.placeholder.com/200x300.png?text=Movie+1",
+    "category": "Trending"
+  },
+  {
+    "id": 2,
+    "title": "Movie 2",
+    "description": "Another fantastic movie.",
+    "posterUrl": "https://via.placeholder.com/200x300.png?text=Movie+2",
+    "category": "Trending"
+  },
+  {
+    "id": 3,
+    "title": "Movie 3",
+    "description": "You were watching this.",
+    "posterUrl": "https://via.placeholder.com/200x300.png?text=Movie+3",
+    "category": "Continue Watching"
+  },
+  {
+    "id": 4,
+    "title": "Show 1",
+    "description": "An exciting action show.",
+    "posterUrl": "https://via.placeholder.com/200x300.png?text=Show+1",
+    "category": "Action"
+  },
+  {
+    "id": 5,
+    "title": "Show 2",
+    "description": "A hilarious comedy series.",
+    "posterUrl": "https://via.placeholder.com/200x300.png?text=Show+2",
+    "category": "Comedy"
+  },
+  {
+    "id": 6,
+    "title": "Movie 4",
+    "description": "Edge of your seat action.",
+    "posterUrl": "https://via.placeholder.com/200x300.png?text=Movie+4",
+    "category": "Action"
+  },
+  {
+    "id": 7,
+    "title": "Movie 5",
+    "description": "Laugh out loud funny.",
+    "posterUrl": "https://via.placeholder.com/200x300.png?text=Movie+5",
+    "category": "Comedy"
+  },
+  {
+    "id": 8,
+    "title": "Movie 6",
+    "description": "The latest blockbuster.",
+    "posterUrl": "https://via.placeholder.com/200x300.png?text=Movie+6",
+    "category": "Trending"
+  },
+  {
+    "id": 9,
+    "title": "Movie 7",
+    "description": "Don't miss the ending.",
+    "posterUrl": "https://via.placeholder.com/200x300.png?text=Movie+7",
+    "category": "Continue Watching"
+  },
+  {
+    "id": 10,
+    "title": "Show 3",
+    "description": "A new action-packed show.",
+    "posterUrl": "https://via.placeholder.com/200x300.png?text=Show+3",
+    "category": "Action"
+  }
+]
