@@ -3,70 +3,70 @@
     "id": 1,
     "title": "The Dark Knight",
     "description": "A gritty crime thriller featuring Batman.",
-    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/8/8a/Dark_Knight.jpg",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
     "category": "Trending"
   },
   {
     "id": 2,
     "title": "Inception",
     "description": "A mind-bending thriller about dreams within dreams.",
-    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/7/7f/Inception_ver3.jpg",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/edv5CZvWj09upOsy2Y6IwDhK8bt.jpg",
     "category": "Trending"
   },
   {
     "id": 3,
-    "title": "Interstellar",
-    "description": "A journey through space and time to save humanity.",
-    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg",
+    "title": "Stranger Things",
+    "description": "A group of kids uncover supernatural mysteries in their town.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/x2LSRK2Cm7MZhjluni1msVJ3wDF.jpg",
     "category": "Continue Watching"
   },
   {
     "id": 4,
     "title": "Avengers: Endgame",
     "description": "The epic conclusion to the Avengers saga.",
-    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/0/0d/Avengers_Endgame_poster.jpg",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/or06FN3Dka5tukK1e9sl16pB3iy.jpg",
     "category": "Action"
   },
   {
     "id": 5,
     "title": "The Big Bang Theory",
     "description": "A comedy series about science geeks and their friends.",
-    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/The_Big_Bang_Theory_season_1.jpg",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ooBGRQBdbGzBxAVfExiO8r7kloA.jpg",
     "category": "Comedy"
   },
   {
     "id": 6,
     "title": "Mad Max: Fury Road",
     "description": "A high-octane action film set in a post-apocalyptic world.",
-    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/6/6e/Mad_Max_Fury_Road.jpg",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/8tZYtuWezp8JbcsvHYO0O46tFbo.jpg",
     "category": "Action"
   },
   {
     "id": 7,
     "title": "Friends",
     "description": "A classic sitcom about six friends living in New York.",
-    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/d/dd/Friends_season_one_cast.jpg",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/f496cm9enuEsZkSPzCwnTESEK5s.jpg",
     "category": "Comedy"
   },
   {
     "id": 8,
     "title": "Joker",
     "description": "A psychological thriller about the origin of the Joker.",
-    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/e/e1/Joker_%282019_film%29_poster.jpg",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
     "category": "Trending"
   },
   {
     "id": 9,
-    "title": "Stranger Things",
-    "description": "A group of kids uncover supernatural mysteries in their town.",
-    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/3/38/Stranger_Things_season_3.jpg",
+    "title": "Interstellar",
+    "description": "A journey through space and time to save humanity.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/rAiYTfKGqDCRIIqo664sY9XZIvQ.jpg",
     "category": "Continue Watching"
   },
   {
     "id": 10,
     "title": "Game of Thrones",
     "description": "A fantasy drama series based on the novels by George R. R. Martin.",
-    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/d/d8/Game_of_Thrones_title_card.jpg",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/u3bZgnGQ9T01sWNhyveQz0wH0Hl.jpg",
     "category": "Action"
   }
 ]
